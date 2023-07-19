@@ -1,3 +1,7 @@
+https://www.youtube.com/watch?v=FiGmAI5e91M&ab_channel=TraversyMedia
+https://github.com/bradtraversy/react-tailwind-pixabay-gallery
+excluded the .env file, in the .gitignore, in which includes my personal API_KEY. When cloning and running, import your own API_KEY.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
