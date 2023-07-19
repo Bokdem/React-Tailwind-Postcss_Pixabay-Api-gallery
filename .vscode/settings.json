@@ -1,0 +1,17 @@
+{
+    "emmet.preferences": {
+
+    },
+    // make html emmet available in jsx files
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.syntaxProfiles": {},
+    // configure tailwindcss intellisense
+    "tailwindCSS.emmetCompletions": true,
+    "editor.inlineSuggest.enabled": true,
+    "editor.quickSuggestions": {
+    "strings": true
+    },
+    "css.validate": false,
+}
